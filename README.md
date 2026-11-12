@@ -35,7 +35,7 @@ Ainda estou explorando e aberta a descobrir novos caminhos.
 
 **Linguagens**
 
-<img src="https://img.shields.io/badge/Python_%28b%C3%A1sico%29-3F3C82?style=for-the-badge&logo=python&logoColor=F3EBD3" alt="Python (básico)" /> <img src="https://img.shields.io/badge/HTML5-3F3C82?style=for-the-badge&logo=html5&logoColor=F3EBD3" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-3F3C82?style=for-the-badge&logo=css&logoColor=F3EBD3" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-3F3C82?style=for-the-badge&logo=javascript&logoColor=F3EBD3" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3F3C82?style=for-the-badge&logo=python&logoColor=F3EBD3" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-3F3C82?style=for-the-badge&logo=html5&logoColor=F3EBD3" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-3F3C82?style=for-the-badge&logo=css&logoColor=F3EBD3" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-3F3C82?style=for-the-badge&logo=javascript&logoColor=F3EBD3" alt="JavaScript" />
 
 **Ferramentas**
 
